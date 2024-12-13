@@ -1,0 +1,26 @@
+.table { 
+    
+    border: 2px solid #ccc;
+    border-color: black
+    
+}
+
+.tr {
+    color: black;
+    border-radius: 4px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+  }
+
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+
+.titulo {
+  color: red;
+}
